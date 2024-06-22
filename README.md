@@ -1,7 +1,7 @@
 ## XO-Game
 
 ## Overview
-This project is a Tic-Tac-Toe Tournament game where players compete to achieve a winning streak on an `n x n` board. Players can be either human or automated, with the latter employing various strategies. The game supports multiple rounds and can be played in a console-rendered mode or without rendering.
+This project involves implementing the Tic-Tac-Toe game in Java, as part of an exercise for the Object-Oriented Programming (OOP) course. This project is a modified version of a Tic-Tac-Toe Tournament game where players compete to achieve a winning streak on an n x n board. Players can be either human or automated, with the latter employing various strategies. The game supports multiple rounds and can be played in a console-rendered mode or without rendering.
 
 ## Features
 - Supports human and automated players.
