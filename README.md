@@ -34,32 +34,6 @@ This project is a Tic-Tac-Toe Tournament game where players compete to achieve a
   ```
   java Tournament 3 4 3 console human whatever
   ```
-
-## Input Validation
-If an invalid player type or renderer is entered, the program will prompt the user to choose a valid option.
-
-## Classes and Interfaces
-### Interfaces
-- Renderer
-- Player
-
-### Classes
-- Board
-- VoidRenderer
-- ConsoleRenderer
-- KeyboardInput
-- HumanPlayer
-- CleverPlayer
-- WhateverPlayer
-- GeniusPlayer
-- Game
-- Tournament
-- PlayerFactory
-- RendererFactory
-
-### Constants
-- enum Mark
-
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
