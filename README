@@ -1,0 +1,12 @@
+jamil_barbara1
+212695894
+
+1. for whatever: whatever choose the coordination randomly and put the mark on the board.
+   for clever: the clever player tries to make a move by placing its mark in the first available position,
+               iterating column by column, until a valid move is made
+   for genius: tries to make a move by iterating over the board, avoiding occupied positions and putting
+               the mark next to same mark on the same row or the same column.
+
+2. Implementing a common interface in all player classes allows for polymorphism and encapsulation.
+  Polymorphism occurs because each player has identical methods but performs differently than the others.
+  Encapsulation ensures each class takes on its own responsibility.
